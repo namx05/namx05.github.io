@@ -25,16 +25,18 @@
 
 <br>
 
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/namx05)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/namx05/)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/namx05/)  [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05)  [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](namx05)  
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/namx05)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/namx05/)  [<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='instagram' height='30'>](https://www.instagram.com/namx05/)  [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/namx05)  [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](namx05) [<img src='https://img.shields.io/badge/YouTube-100000?style=for-the-badge&logo=youtube&logoColor=red' alt='YouTube' height='30'>](https://youtube.com/naman5.6) 
 
-# HOFs:
-
-<img src="https://logos.bugcrowdusercontent.com/logos/103c/b7e7/b0f516a4/02ac1f6f4bbf78cc23351606b3041ccb_24492255_300x300.jpeg" width="75px">     <img src="https://logos.bugcrowdusercontent.com/logos/1fc4/0cdf/97a13635/0ff5967b93b6f20f30fe76f4f55f19c0_71c30155ec8259fbdfb3aacf1fdef20d_a9996e82cbaf05e968f954ab10d02722_1cd9c5ad6f5d5212ff103ac7ba088069_ostk.jpg" width="75px">
 
 # Achievements:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/namx05.png" alt="TryHackMe">
+## HOFs:
 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/namx05.png" alt="TryHackMe">
+ 
+<img src="https://logos.bugcrowdusercontent.com/logos/103c/b7e7/b0f516a4/02ac1f6f4bbf78cc23351606b3041ccb_24492255_300x300.jpeg" width="75px">     <img src="https://logos.bugcrowdusercontent.com/logos/1fc4/0cdf/97a13635/0ff5967b93b6f20f30fe76f4f55f19c0_71c30155ec8259fbdfb3aacf1fdef20d_a9996e82cbaf05e968f954ab10d02722_1cd9c5ad6f5d5212ff103ac7ba088069_ostk.jpg" width="75px">
+
+ 
 - Sticker Swag from [BugCrowd](https://bugcrowd.com)
 - Appriciaion from [Indian Government](https://nciipc.gov.in/)
 
@@ -42,9 +44,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namx05)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=namx05&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namx05&layout=compact)]
 
 
 
