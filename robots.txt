@@ -1,2 +1,4 @@
-/naman_website
-/Arduino3128.github.io
+User-agent: *
+Allow: *
+Disallow: /assets/
+Sitemap: https://namx05.github.io/sitemap.xml
