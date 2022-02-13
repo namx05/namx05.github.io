@@ -6,7 +6,7 @@
 ### Reach out to me via 👋:  
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![3.1]][[alt text]3]
+[![alt text][3.1]][3]
 [![alt text][4.1]][4]
 
 [1.1]: https://img.icons8.com/ios-glyphs/30/000000/linkedin.png
