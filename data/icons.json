@@ -1,0 +1,31 @@
+{
+  "firms": {
+    "Arsen Blockchain Security": null,
+    "BurraSec": "burrasec.jpg",
+    "CD Security": "cd-security.jpg",
+    "CODESPECT": "codespect.jpg",
+    "Cantina": "cantina.jpg",
+    "Code4rena": "c4.png",
+    "CodeHawks": "codehawks.jpg",
+    "Credshields": "credshields.png",
+    "Cyfrin": "cyfrin.jpg",
+    "Guardian Audits": "guardianaudits.jpg",
+    "Hashlock": "hashlock.jpg",
+    "Naman Audit Group": "namx05.jpg",
+    "Pashov Audit Group": "pag.jpg",
+    "Safe Edges": "safeedges.jpg",
+    "Sherlock": "sherlock.jpg",
+    "Shieldify": "shieldifysec.jpg",
+    "Superteam": "superteam.jpg"
+  },
+  "ecosystems": {
+    "Berachain": "berachain.svg",
+    "Bowser Extenstion": "browser.svg",
+    "Canton": "canton.svg",
+    "CosmWasm": "cosmwasm.svg",
+    "EVM": "evm.svg",
+    "Go": "go.svg",
+    "Solana": "solana.svg",
+    "TypeScript": "typescript.svg"
+  }
+}

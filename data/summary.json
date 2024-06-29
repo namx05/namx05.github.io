@@ -1,0 +1,7 @@
+{
+  "critHigh": "400+",
+  "medium": "450+",
+  "publicAudits": "11",
+  "privateAudits": "210+",
+  "rustAudits": "36"
+}

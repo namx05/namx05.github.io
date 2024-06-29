@@ -1,0 +1,92 @@
+[
+  {
+    "title": "I Failed My AI Security Exam by 3%",
+    "url": "https://infosecwriteups.com/i-failed-my-ai-security-exam-by-3-a56c5b2416a0",
+    "date": "2026-09-27"
+  },
+  {
+    "title": "Inside Solana Accounts: Unlocking the Secrets of On-Chain Data",
+    "url": "https://namx05.medium.com/inside-solana-accounts-unlocking-the-secrets-of-on-chain-data-250e9d670061",
+    "date": "2025-02-11"
+  },
+  {
+    "title": "TryHackMe: Alfred",
+    "url": "https://namx05.medium.com/tryhackme-alfred-65c96b2dbc95",
+    "date": "2025-02-11"
+  },
+  {
+    "title": "Fungible Tokens: ERC-20",
+    "url": "https://medium.com/coinmonks/fungible-tokens-erc-20-2cdd412598b6",
+    "date": "2023-05-23"
+  },
+  {
+    "title": "Get your contract compiled using Truffle",
+    "url": "https://medium.com/coinmonks/get-your-contract-compiled-using-truffle-391a2c8dccbf",
+    "date": "2023-05-22"
+  },
+  {
+    "title": "My Journey and Lessons from the #30dayofweb3 Challenge",
+    "url": "https://medium.com/coinmonks/my-journey-and-lessons-from-the-30dayofweb3-challenge-631b23c15d11",
+    "date": "2023-04-16"
+  },
+  {
+    "title": "My first HOF: Story of a chained Broken Access Control",
+    "url": "https://infosecwriteups.com/my-first-hall-of-fame-with-a-chained-broken-access-control-76f9e2e0e467",
+    "date": "2023-02-02"
+  },
+  {
+    "title": "TryHackMe: LazyAdmin",
+    "url": "https://infosecwriteups.com/tryhackme-lazyadmin-9441e1240cb7",
+    "date": "2022-06-12"
+  },
+  {
+    "title": "HackTheBox: Lame",
+    "url": "https://infosecwriteups.com/hackthebox-lame-649ae6d39ac6",
+    "date": "2022-05-31"
+  },
+  {
+    "title": "TryHackMe: Biblioteca",
+    "url": "https://infosecwriteups.com/tryhackme-biblioteca-c56be949564c",
+    "date": "2022-05-21"
+  },
+  {
+    "title": "TryHackMe: Blue",
+    "url": "https://namx05.medium.com/tryhackme-blue-5166cedadead"
+  },
+  {
+    "title": "TryHackMe: RootME",
+    "url": "https://namx05.medium.com/thm-rootme-94a48def69d3"
+  },
+  {
+    "title": "TryHackMe: Basic Pentesting",
+    "url": "https://namx05.medium.com/thm-basic-pentesting-39b7271cf802"
+  },
+  {
+    "title": "TryHackMe: Gallery",
+    "url": "https://infosecwriteups.com/thmgallery-25845096170d"
+  },
+  {
+    "title": "TryHackMe: Team",
+    "url": "https://infosecwriteups.com/tryhackme-team-a58402202a0d"
+  },
+  {
+    "title": "TryHackMe: Res",
+    "url": "https://infosecwriteups.com/tryhackme-res-5e814acff6ed"
+  },
+  {
+    "title": "TryHackMe: Aratus",
+    "url": "https://infosecwriteups.com/tryhackme-aratus-62751adaa9f6"
+  },
+  {
+    "title": "TryHackMe: Blaster",
+    "url": "https://namx05.medium.com/tryhackme-blaster-2430255a4229"
+  },
+  {
+    "title": "TryHackMe: Anonymous",
+    "url": "https://namx05.medium.com/tryhackme-anonymous-d7d5b6d14478"
+  },
+  {
+    "title": "TryHackMe: Agent Sudo",
+    "url": "https://namx05.medium.com/tryhackme-agentsudo-fcc701caeae3"
+  }
+]
