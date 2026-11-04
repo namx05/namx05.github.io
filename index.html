@@ -1,451 +1,177 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
 <head>
   <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-
-  <title>Website of Naman | namx05 </title>
-  <!--Beginning of SEO Metadata-->
-  <meta content="namx05,Hacker,Indian,TryHackMe, Naman Jain" name="keywords">
-  <meta property="og:title" content="namx05: Portfolio = | namx05.github.io">
-  <meta property="og:locale" content="en_US">
-  <meta name="description"
-    content="namx05: Portfolio  | namx05.github.io | InfoSec Writeups | Projects | CTF Player;  Hacker; Blogger">
-  <meta property="og:description"
-    content="namx05: Portfolio | namx05.github.io | InfoSec Writeups | Projects | CTF Player;  Hacker; Blogger">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'none'; form-action 'none'">
+  <title>Naman Jain | Security Researcher</title>
+  <meta name="description" content="Naman (namx05): independent security researcher auditing Solidity, Rust and Daml contracts across EVM, Solana, Cosmos and Canton.">
   <link rel="canonical" href="https://namx05.github.io/">
-  <link rel="icon" href="assets/img/me.jpg">
-  <meta property="og:url" content="https://namx05.github.io/">
-  <meta property="og:site_name" content="namx05.github.io">
-  <script type="application/ld+json">
-  {"@type":"WebSite","headline":"namx05: Portfolio","url":"https://namx05.github.io/","name":"namx05.github.io","description":"namx05: Portfolio (Naman Jain) | namx05.github.io | InfoSec Writeups | Projects","@context":"https://schema.org"}</script>
-  <!--End of SEO Metadata-->
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<!--   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7QXNGQSWWP"></script> -->
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'G-7QXNGQSWWP');
-  </script>
-  <!-- End of Global site tag (gtag.js) - Google Analytics-->
-
-  <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <!--link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Google Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Rajdhani:400,400i,500,500i,600,600i,700,700i,900,900i"
-    rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Template Main CSS File -->
-  <link href="assets/css/style.css" rel="stylesheet">
-
+  <link rel="icon" href="favicon.png">
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-  <!--========= Pre-Loader =========-->
-  <div class="loader">
-    <!--<img src="https://s3.gifyu.com/images/loader.gif" loading="eager">-->
-    <img src="/assets/img/loader.gif" loading="eager">
-  </div>
+  <header class="site-header">
+    <a class="brand" href="#top"><span class="brand-avatar" aria-hidden="true"><img src="profile.png" alt="" width="28" height="28"></span><span class="brand-name">namx05</span></a>
+    <nav aria-label="Sections">
+      <a href="#about">About</a>
+      <a href="#stats">Stats</a>
+      <a href="#interesting">Interesting</a>
+      <a href="#audits">Audits</a>
+      <a href="#experience">Experience</a>
+      <a href="#blog">Blog</a>
+    </nav>
+  </header>
 
-  <!-- ======= Header ======= -->
-  <header id="header" class="fixed-top ">
-    <div class="container d-flex align-items-center justify-content-between">
+  <main id="top">
+    <section class="intro">
+      <div class="intro-head">
+        <img class="avatar" src="profile.png" alt="Naman's profile photo" width="88" height="88">
+        <div>
+          <h1>Naman Jain</h1>
+          <p class="tagline">Security Researcher, Smart Contract Auditor</p>
+        </div>
+      </div>
+      <p class="contact">
+        <span class="contact-label">Contact</span>
+        <a href="https://x.com/namx05" rel="noopener"><svg class="social-icon" aria-hidden="true" width="15" height="15"><use href="icons/socials.svg#x"></use></svg>X</a>
+        <a href="https://t.me/namx05" rel="noopener"><svg class="social-icon" aria-hidden="true" width="15" height="15"><use href="icons/socials.svg#telegram"></use></svg>Telegram</a>
+      </p>
+    </section>
 
-      <a href="index.html" class="logo"><img
-          src="https://see.fontimg.com/api/renderfont4/gv11/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/bmFteDA1/cookiemonster.png"
-          loading="lazy" alt="head-logo" class="img-fluid"></a>
-      <!-- Uncomment below if you prefer to use an text logo -->
-      <!--h1 class="logo"><a href="index.html">namx05</a></h1-->
+    <section id="about">
+      <h2>About</h2>
+      <div class="prose">
+        <p>I'm Naman, known online as namx05, an independent security researcher. I have over 4 years of experience in offensive security, starting with penetration testing and bug bounties in Web2 before moving into smart contract auditing in Web3.</p>
+      </div>
 
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#writeups">InfoSec Writeups</a></li>
-          <li><a class="nav-link scrollto" href="#projects">Projects</a></li>
-          <i class="bi bi-list mobile-nav-toggle"></i>
+      <div class="about-split">
+        <div class="prose">
+          <h3>Web3</h3>
+          <p>I audit Solidity, Rust (Solana, CosmWasm) and DAML (Canton) code, testing with Foundry and Hardhat. My work covers DEXs, AMMs, GameFi, TradFi, account abstraction, order books, cross-chain protocols, bridges, launchpads and bonding curves.</p>
+          <p data-live hidden>I've contributed to <span data-stat="privateAudits"></span> private and <span data-stat="publicAudits"></span> public audits, including <span data-stat="rustAudits"></span> in Rust, and identified <span data-stat="critHigh"></span> critical and high severity vulnerabilities.</p>
+          <p>I've collaborated with audit firms including <span class="firm"><img class="firm-icon" src="icons/firms/cyfrin.jpg" alt="" width="15" height="15">Cyfrin</span>, <span class="firm"><img class="firm-icon" src="icons/firms/cd-security.jpg" alt="" width="15" height="15">CD Security</span>, <span class="firm"><img class="firm-icon" src="icons/firms/guardianaudits.jpg" alt="" width="15" height="15">Guardian Audits</span>, <span class="firm"><img class="firm-icon" src="icons/firms/pag.jpg" alt="" width="15" height="15">Pashov Audit Group</span>, <span class="firm"><img class="firm-icon" src="icons/firms/credshields.png" alt="" width="15" height="15">Credshields</span>, <span class="firm"><img class="firm-icon" src="icons/firms/codespect.jpg" alt="" width="15" height="15">CODESPECT</span>, <span class="firm"><img class="firm-icon" src="icons/firms/burrasec.jpg" alt="" width="15" height="15">BurraSec</span>, <span class="firm"><img class="firm-icon" src="icons/firms/shieldifysec.jpg" alt="" width="15" height="15">Shieldify</span>, <span class="firm"><img class="firm-icon" src="icons/firms/hashlock.jpg" alt="" width="15" height="15">Hashlock</span>, <span class="firm"><img class="firm-icon" src="icons/firms/safeedges.jpg" alt="" width="15" height="15">Safe Edges</span>, and Arsen Blockchain Security.</p>
+          <p>I also compete on platforms like <span class="firm"><img class="firm-icon" src="icons/firms/c4.png" alt="" width="15" height="15">Code4rena</span> and <span class="firm"><img class="firm-icon" src="icons/firms/cantina.jpg" alt="" width="15" height="15">Cantina</span>, with first-place finishes on Superteam and in a Shieldify private pool, and I've worked as a judge and triager for Cantina bounties and competitions.</p>
+        </div>
+
+        <div class="prose">
+          <h3>Web2</h3>
+          <p>Before Web3, I worked in penetration testing and vulnerability research, running web application and network penetration tests on client assets and building proofs of concept for the issues I found, mostly with Burp Suite.</p>
+          <p>I've reported security issues through bug bounty programs including Google and Starbucks, and I hold the eJPT certification.</p>
+        </div>
+      </div>
+
+      <div class="prose">
+        <p>I hold a Master's in Cyber Security. I'm based in India and available for private audits and security consulting. Reach out on <a href="https://x.com/namx05" rel="noopener"><svg class="social-icon" aria-hidden="true" width="15" height="15"><use href="icons/socials.svg#x"></use></svg>X</a> or <a href="https://t.me/namx05" rel="noopener"><svg class="social-icon" aria-hidden="true" width="15" height="15"><use href="icons/socials.svg#telegram"></use></svg>Telegram</a>.</p>
+      </div>
+    </section>
+
+    <section id="stats">
+      <h2>Audit stats</h2>
+      <p id="status" class="status" role="status">Loading audits…</p>
+
+      <div data-live hidden>
+        <div class="headline">
+          <div><span class="headline-value high-text" data-stat="critHigh"></span><span class="headline-label">Crit/High</span></div>
+          <div><span class="headline-value med-text" data-stat="medium"></span><span class="headline-label">Medium risk</span></div>
+          <div><span class="headline-value" data-stat="publicAudits"></span><span class="headline-label">Public Audits</span></div>
+          <div><span class="headline-value" data-stat="privateAudits"></span><span class="headline-label">Private Audits</span></div>
+        </div>
+      </div>
+    </section>
+
+    <div data-live hidden>
+      <section id="interesting">
+        <h2>Interesting audits</h2>
+        <p class="note">Highest severity-weighted finding counts (critical ×4, high ×3, medium ×2, low ×1), most recent first.</p>
+        <ol id="interesting-list" class="interesting"></ol>
+      </section>
+
+      <section id="audits">
+        <h2>Audits</h2>
+        <div class="controls">
+          <label class="search">Search <input id="f-search" type="search" placeholder="Protocol, type, firm"></label>
+          <label>Source <select id="f-source"></select></label>
+          <label>Audited with <select id="f-firm"></select></label>
+          <label>Ecosystem <select id="f-eco"></select></label>
+          <label>Year <select id="f-year"></select></label>
+          <label>Sort
+            <select id="f-sort">
+              <option value="default">Newest</option>
+              <option value="total">Most findings</option>
+              <option value="severe">Most critical + high</option>
+              <option value="name">Name</option>
+            </select>
+          </label>
+        </div>
+        <ul class="legend" aria-label="Severity legend">
+          <li><span class="sev crit">C</span> Critical</li>
+          <li><span class="sev high">H</span> High</li>
+          <li><span class="sev med">M</span> Medium</li>
+          <li><span class="sev low">L</span> Low</li>
+          <li><span class="sev info">I</span> Informational</li>
+          <li>🔒 Report locked, not yet public</li>
         </ul>
-      </nav><!-- .navbar -->
-
+        <div class="table-wrap">
+          <table class="audit-table">
+            <thead>
+              <tr><th>Protocol</th><th class="col-eco">Ecosystem</th><th>Findings</th><th class="col-firm">Audited with</th><th class="col-year">Year</th><th>Report</th></tr>
+            </thead>
+            <tbody id="audit-body"></tbody>
+          </table>
+        </div>
+        <p id="no-results" class="note" hidden>No audits match these filters.</p>
+      </section>
     </div>
-  </header><!-- End Header -->
 
-  <!-- ======= Hero Section ======= -->
-  <div id="hero" class="home">
+    <section id="experience">
+      <h2>Experience</h2>
+      <ol class="experience">
+        <li>
+          <div class="job-head"><strong>Cantina</strong> <span>Triager</span> <time>Nov 2025 – May 2026</time></div>
+          <ul><li>Judge and triager for Cantina bounties and competitions.</li></ul>
+        </li>
+        <li>
+          <div class="job-head"><strong>CredShields</strong> <span>Security Auditor II</span> <time>Jun 2025 – Apr 2026</time></div>
+          <ul>
+            <li>Promoted to senior role with expanded responsibilities.</li>
+            <li>Led complex security assessments and mentored junior researchers.</li>
+          </ul>
+        </li>
+        <li>
+          <div class="job-head"><strong>CredShields</strong> <span>Security Researcher</span> <time>Jan 2024 – Jun 2025</time></div>
+          <ul>
+            <li>Performed security reviews on smart contracts.</li>
+            <li>Reviewed 120+ codebases across Solidity, Rust, FunC, Go and DAML projects.</li>
+          </ul>
+        </li>
+        <li>
+          <div class="job-head"><strong>Esecurify</strong> <span>Cyber Security Analyst Intern</span> <time>Jul 2023 – Oct 2023</time></div>
+          <ul>
+            <li>Performed web application and network penetration tests on client assets.</li>
+            <li>Created real-time proofs of concept and shared them with clients.</li>
+          </ul>
+        </li>
+        <li>
+          <div class="job-head"><strong>Flipkart</strong> <span>System Engineer</span> <time>Jul 2021 – Mar 2022</time></div>
+          <ul>
+            <li>Managed, troubleshot and provided IT support.</li>
+            <li>Ran weekly training on using IT assets.</li>
+          </ul>
+        </li>
+      </ol>
+    </section>
 
-    <div class="container">
-      <div class="hero-content">
-        <h1>
-          Naman Jain
-        </h1> 
+    <section id="blog">
+      <h2>Blog</h2>
+      <ul id="blog-list" class="blog"></ul>
+    </section>
+  </main>
 
-        <h3 >I'm <span class="typed"
-            data-typed-items="Web3 Security Researcher, Smart Contract Auditor, CTF Player, Hacker, Blogger"></span></h3>
-        <!-- <p>Part-Time Programmer, CTF Player, Hacker, Blogger</p> -->
-        <br>
-        <script src="https://tryhackme.com/badge/649573"></script>
-        <br>
-        <ul class="list-unstyled list-social"><br>
-          <li><a href="https://www.linkedin.com/in/namx05" target="_blank" ><i class="bi bi-linkedin"></i></a></li>
-          <li><a href="https://www.github.com/namx05" target="_blank" ><i class="bi bi-github"></i></a></li>
-        </ul>              
-      </div>
-    </div>
-  </div><!-- End Hero -->
+  <footer class="site-footer">
+    <a href="https://github.com/namx05/audits">Audit reports on GitHub</a>
+  </footer>
 
-  <main id="main">
-
-    <!-- ======= About Section ======= -->
-    <div id="about" class="paddsection">
-      <div class="container">
-        <div class="row justify-content-between">
-      
-          <div class="col-lg-4 ">
-            <div class="div-img-bg">
-              <div class="about-img">
-                <img src="assets/img/me2.jpg" loading="lazy" class="img-responsive" alt="me">
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-7">
-            <div class="about-descr">
-              <p class="p-heading">Welcome to the page of Naman Jain</p>
-              <p class="separator">Web3 Security Enthusiast, seekign an opportunity to learn and grow (: 
-                <br>
-                  -> Smart Contract Auditor
-                <br>
-                  -> CTF Player
-                <br>
-                  -> Love to solve puzzles
-                <br>
-                  -> Blogger
-                <br>
-                  -> Love to Read Books
-              </p>
-
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div><!-- End About Section -->
-
-    <!-- ======= InfoSec Writeups Section ======= -->
-    <div id="writeups" class="text-left paddsection">
-
-      <div class="container">
-        <div class="section-title text-center">
-          <h2>writeups</h2>
-        </div>
-      </div>
-
-      <div class="container">
-        <div class="writeups-block">
-          <div class="row">
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a
-                  href="https://namx05.medium.com/tryhackme-blue-5166cedadead" target="_blank" ><img
-                    src="assets/img/writeups/blue.jpg" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a
-                      href="https://namx05.medium.com/tryhackme-blue-5166cedadead" target="_blank">TryHackMe: blue</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://namx05.medium.com/thm-rootme-94a48def69d3" target="_blank"><img
-                    src="assets/img/writeups/rootme.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://namx05.medium.com/thm-rootme-94a48def69d3" target="_blank" >TryHackMe: RootME</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a
-                  href="https://namx05.medium.com/thm-basic-pentesting-39b7271cf802" target="_blank" ><img
-                    src="assets/img/writeups/basicpentesting.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a
-                      href="https://namx05.medium.com/thm-basic-pentesting-39b7271cf802" target="_blank" >TryHackMe: Basic Pentesting</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
- 
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://infosecwriteups.com/thmgallery-25845096170d" target="_blank"><img
-                    src="assets/img/writeups/gallery.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://infosecwriteups.com/thmgallery-25845096170d" target="_blank" >TryHackMe: Gallery</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://infosecwriteups.com/tryhackme-team-a58402202a0d" target="_blank"><img
-                    src="assets/img/writeups/team.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://infosecwriteups.com/tryhackme-team-a58402202a0d" target="_blank" >TryHackMe: Team</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://infosecwriteups.com/tryhackme-res-5e814acff6ed" target="_blank"><img
-                    src="assets/img/writeups/res.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://infosecwriteups.com/tryhackme-res-5e814acff6ed" target="_blank" >TryHackMe: Res</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://infosecwriteups.com/tryhackme-aratus-62751adaa9f6" target="_blank"><img
-                    src="assets/img/writeups/aratus.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://infosecwriteups.com/tryhackme-aratus-62751adaa9f6" target="_blank" >TryHackMe: Aratus</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://namx05.medium.com/tryhackme-blaster-2430255a4229" target="_blank"><img
-                    src="assets/img/writeups/blaster.jpg" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://namx05.medium.com/tryhackme-blaster-2430255a4229" target="_blank" >TryHackMe: Blaster</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://namx05.medium.com/tryhackme-anonymous-d7d5b6d14478" target="_blank"><img
-                    src="assets/img/writeups/anonymous.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://namx05.medium.com/tryhackme-anonymous-d7d5b6d14478" target="_blank" >TryHackMe: Anonymous</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-            
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://namx05.medium.com/tryhackme-agentsudo-fcc701caeae3" target="_blank"><img
-                    src="assets/img/writeups/agentsudoctf.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://namx05.medium.com/tryhackme-agentsudo-fcc701caeae3" target="_blank" >TryHackMe: Agent Sudo</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://infosecwriteups.com/tryhackme-biblioteca-c56be949564c" target="_blank"><img
-                    src="assets/img/writeups/biblioteca.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://infosecwriteups.com/tryhackme-biblioteca-c56be949564c" target="_blank" >TryHackMe:Biblioteca</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-           
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://namx05.medium.com/tryhackme-lazyadmin-9441e1240cb7" target="_blank"><img
-                    src="assets/img/writeups/lazyadmin.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://namx05.medium.com/tryhackme-lazyadmin-9441e1240cb7" target="_blank" >TryHackMe:LazyAdmin</a></h4>
-                  <p class="separator">(TryHackMe)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6">
-              <div class="writeups-info">
-                <a href="https://namx05.medium.com/hackthebox-lame-649ae6d39ac6" target="_blank"><img
-                    src="assets/img/writeups/Lame.png" loading="lazy" class="img-responsive" alt="img"
-                    height="100" width="100"></a>
-                <div class="writeups-txt">
-                  <h4><a href="https://namx05.medium.com/hackthebox-lame-649ae6d39ac6" target="_blank" >HackTheBox: Lame</a></h4>
-                  <p class="separator">(HackTheBox)
-                  </p>
-                </div>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </div><!-- End InfoSec Writeups Section -->
-
-    <!-- ======= Projects Section ======= -->
-    <div id="projects" class="paddsection">
-
-      <div class="container">
-        <div class="section-title text-center">
-          <h2>My Projects</h2>
-        </div>
-      </div>
-
-      <div class="container">
-
-        <div class="row">
-          <div class="col-lg-12 d-flex justify-content-center">
-            <ul id="projects-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-hacking">Hacking</li>
-              <li data-filter=".filter-nonhacking">Programming</li>
-            </ul>
-          </div>
-        </div>
-
-        <div class="row projects-container">
-
-          <div class="col-lg-4 col-md-6 projects-item filter-hacking">
-            <img src="assets/img/projects/lmi4u.jpg" loading="lazy" class="img-fluid" alt="lmi4u" height="480"
-              width="640">
-            <div class="projects-info">
-              <h4>lmi4u</h4>
-              <p>Hacking</p>
-              <a href="assets/img/projects/lmi4u.jpg" data-gallery="projectsGallery"
-                class="projects-lightbox preview-link" title="lmi4u" target="_blank" ><i class="bx bx-plus"></i></a>
-              <a href="https://namx05.github.io/lmi4u" target="_blank" class="details-link" title="More Details"><i
-                  class="bx bx-link"></i></a>
-            </div>
-          </div>
-          
-          <div class="col-lg-4 col-md-6 projects-item filter-nonhacking">
-            <img src="assets/img/projects/Snakewatergun.jpg" loading="lazy"
-              class="img-fluid" alt="Auther" height="480" width="640">
-            <div class="projects-info">
-              <h4>Python_Game: Snake_Water_Gun </h4>
-              <p>Programming</p>
-              <a href="assets/img/projects/Snakewatergun.jpg"
-                data-gallery="projectsGallery" class="projects-lightbox preview-link" target="_blank" title="Python_Game: Snake_Water_Gun"><i
-                  class="bx bx-plus"></i></a>
-              <a href="https://namx05.github.io/Python3-Game" target="_blank" class="details-link" title="More Details"><i
-                  class="bx bx-link"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 projects-item filter-nonhacking">
-            <img src="assets/img/projects/TicTacToe.jpg" loading="lazy" class="img-fluid" alt="TicTacToe" height="480"
-              width="640">
-            <div class="projects-info">
-              <h4>Visual_Basic: TicTacToe</h4>
-              <p>Non Hacking</p>
-              <a href="assets/img/projects/TicTacToe.jpg" data-gallery="projectsGallery"
-                class="projects-lightbox preview-link" target="_blank" title="TicTacToe"><i class="bx bx-plus"></i></a>
-              <a href="https://namx05.github.io/TicTacToe" class="details-link" target="_blank" title="More Details"><i
-                  class="bx bx-link"></i></a>
-            </div>  
-          </div>
-
-        </div>
-
-      </div>
-
-    </div><!-- End Projects Section -->
-
-  </main><!-- End #main -->
-
-  <!-- ======= Footer ======= -->
-  <!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/namx05?hide_landing_page_details=1', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
-  
-  <div id="footer" class="text-center">
-    <div class="container">
-      <div class="socials-media text-center">
-
-        <ul class="list-unstyled">
-          <li><a href="https://www.linkedin.com/in/namx05" target="_blank" ><i class="bi bi-linkedin"></i></a></li>
-          <li><a href="https://www.github.com/namx05" target="_blank" ><i class="bi bi-github"></i></a></li>
-          <li><a href="https://www.twitter.com/namx05" target="_blank" ><i class="bi bi-twitter"></i></a></li>
-          <li><a href="https://www.instagram.com/namx05" target="_blank" ><i class="bi bi-instagram"></i></a></li>
-        </ul>
-        </ul>
-
-      </div>
-
-      <p>&copy; Copyrights bootstrapmade 2021. All rights reserved.</p>
-
-      <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-
-    </div>
-  </div><!-- End Footer -->
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="assets/vendor/typed.js/typed.min.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="assets/js/main.js"></script>
-
+  <script src="app.js"></script>
 </body>
-
 </html>
