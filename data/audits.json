@@ -4,7 +4,7 @@
     "type": "AMM",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock"
   },
   {
@@ -12,7 +12,7 @@
     "type": "multi-DEX trading",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Pashov Audit Group",
     "findings": { "low": 1 }
   },
@@ -21,7 +21,7 @@
     "type": "NFT-collateralized lending",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock"
   },
   {
@@ -29,7 +29,7 @@
     "type": "ERC20, Dynamic NFT",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "CD Security",
     "findings": { "high": 2, "medium": 7, "low": 14 }
   },
@@ -38,7 +38,7 @@
     "type": "NFT Marketplace",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "CD Security",
     "findings": { "informational": 1 }
   },
@@ -47,7 +47,7 @@
     "type": "NFT Marketplace",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "CD Security",
     "findings": { "medium": 1, "low": 6 },
     "report": "Beezie_Marketplace_Report.pdf"
@@ -57,7 +57,7 @@
     "type": "Stablecoin",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "medium": 3, "low": 5 },
     "report": "cNGN-Smart-Contract-Audit-Report-Final-Report-v4.pdf"
@@ -67,7 +67,7 @@
     "type": "ERC-7401, NFT Lottery",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "medium": 5, "low": 6 }
   },
@@ -76,7 +76,7 @@
     "type": "Cross Chain Token Swap",
     "ecosystem": "Solana",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Pashov Audit Group",
     "findings": { "medium": 2, "low": 7 }
   },
@@ -85,7 +85,7 @@
     "type": "Validator, Cross Chain",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "low": 2 }
   },
@@ -93,7 +93,7 @@
     "name": "Black Tie",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "low": 2 }
   },
@@ -102,7 +102,7 @@
     "type": "Order Book, Trade Book",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 4, "medium": 2 },
     "report": "Honk-Smart-Contract-Audit-Report-Final-Report-v3.pdf"
@@ -112,7 +112,7 @@
     "type": "Router",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 1, "medium": 4 },
     "report": "Yieldo-Smart-Contract-Audit-Report-Final-Report-v2.pdf"
@@ -122,7 +122,7 @@
     "type": "RWA",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "CD Security",
     "findings": { "low": 1, "informational": 9 },
     "report": "HyperLend-2nd-review.pdf"
@@ -132,7 +132,7 @@
     "type": "DeFi \"IFTTT\"",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 8, "medium": 8 }
   },
@@ -141,7 +141,7 @@
     "type": "Prediction-market trading bot",
     "ecosystem": "TypeScript",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Pashov Audit Group",
     "findings": { "high": 2, "medium": 5, "low": 22 },
     "report": "Polygun-security-review_2026-04-16.pdf"
@@ -151,7 +151,7 @@
     "type": "Staking, Raffle",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 2, "medium": 2 },
     "report": "K613-Smart-Contract-Audit-Report-Final-Report-v3.pdf"
@@ -161,7 +161,7 @@
     "type": "Jackpot",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 3, "medium": 2 },
     "report": "1WalletWins-Smart-Contract-Audit-Report-Final-Report-v1.pdf"
@@ -171,7 +171,7 @@
     "type": "CDP, MasterChef",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 1, "medium": 9 },
     "report": "ENNI-Smart-Contract-Audit-Report-Final-Report-v1.pdf"
@@ -181,7 +181,7 @@
     "type": "Eigen And Swappers, AMM, Risk Coverage",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 3, "low": 7 },
     "report": "Spice-2nd-Smart-Contract-Audit-Report-Final-Report-v3.pdf"
@@ -191,7 +191,7 @@
     "type": "AMM",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock"
   },
   {
@@ -199,7 +199,7 @@
     "type": "Merkle Distributor, Staking",
     "ecosystem": "Solana",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Safe Edges",
     "findings": { "medium": 3, "low": 7 },
     "report": "Clique_SVM_V2_Audit_by_SE.pdf"
@@ -209,7 +209,7 @@
     "type": "Vault",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "medium": 6, "low": 6 },
     "report": "Cartha-Smart-Contract-Audit-Report-Final-Report-v5.pdf"
@@ -219,7 +219,7 @@
     "type": "GameFi, VRF",
     "ecosystem": "Solana",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Shieldify",
     "findings": { "medium": 4, "low": 10 }
   },
@@ -228,7 +228,7 @@
     "type": "AMM",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 5, "medium": 3 },
     "report": "MarketDAO-Smart-Contract-Audit-Report-Final-Report-v3.pdf"
@@ -238,7 +238,7 @@
     "type": "DAO, Governamce",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 5, "medium": 3 },
     "report": "MarketDAO-Smart-Contract-Audit-Report-Final-Report-v3.pdf"
@@ -248,7 +248,7 @@
     "type": "AMM",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 7, "medium": 10 }
   },
@@ -257,7 +257,7 @@
     "type": "NFT Sale",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "medium": 1, "low": 2 }
   },
@@ -266,7 +266,7 @@
     "type": "AMM, UniV2/UniV3",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "medium": 1, "low": 2 },
     "report": "MyDexBot-Smart-Contract-Audit-Report-Final-Report-v3.pdf"
@@ -276,7 +276,7 @@
     "type": "Bonding Curve",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Naman Audit Group",
     "findings": { "critical": 2, "high": 5, "medium": 3 }
   },
@@ -285,7 +285,7 @@
     "type": "Merkle Distributor",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Safe Edges",
     "findings": { "high": 1, "medium": 4 },
     "report": "Clique-SVM-Audit-by-SafeEdges.pdf"
@@ -295,7 +295,7 @@
     "type": "TradeFi, SPL Whitelisting",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Cyfrin",
     "findings": { "informational": 1 },
     "report": "2025-10-31-cyfrin-securitize-spltoken-whitelist-v2.0.pdf"
@@ -305,7 +305,7 @@
     "type": "TradeFi",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Cyfrin",
     "findings": { "informational": 1 },
     "report": "2025-11-07-cyfrin-securitize-dstoken-whitelist-svm-v2.0.pdf"
@@ -315,7 +315,7 @@
     "type": "AMM, Lending, Staking",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 5, "low": 4 },
     "report": "dTRINITY-Smart-Contract-Audit-Report-Final-Report-v2.pdf"
@@ -325,7 +325,7 @@
     "type": "GameFi",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Cyfrin",
     "findings": { "high": 1, "medium": 3 }
   },
@@ -334,7 +334,7 @@
     "type": "Launchpad",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 4, "medium": 5 },
     "report": "N4T-Smart-Contract-Audit-Report-Final-Report-v2.pdf"
@@ -344,7 +344,7 @@
     "type": "NFT Sale",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 2, "medium": 2 },
     "report": "Emergence.art-Smart-Contract-Audit-Report-Final-Repot-v2.pdf"
@@ -354,7 +354,7 @@
     "type": "Cross Chain, AMM",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "BurraSec",
     "findings": { "high": 1 },
     "report": "2025-10-BurraSec.pdf"
@@ -364,7 +364,7 @@
     "type": "Presale, Launchpad",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Hashlock",
     "findings": { "high": 1, "medium": 2 },
     "report": "Vrine-Smart-Contract-Audit-Report-Final-Report-v2.pdf"
@@ -374,7 +374,7 @@
     "type": "GameFi",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Naman Audit Group",
     "findings": { "high": 2 },
     "report": "WAGER_PROGRAM_SMART_CONTRACT_AUDIT.pdf"
@@ -384,7 +384,7 @@
     "type": "Lending",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "CODESPECT",
     "findings": { "medium": 6 },
     "report": "032_CODESPECT_BETTERBANK.pdf"
@@ -394,7 +394,7 @@
     "type": "Account Abstraction, Paymaster",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Shieldify",
     "findings": { "critical": 1, "high": 3, "medium": 6 },
     "report": "Etherspot-GTP-Module-Security-Review.pdf"
@@ -404,7 +404,7 @@
     "type": "NFT Staking, GameFi",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Shieldify",
     "findings": { "critical": 1, "medium": 1 },
     "report": "Beetle-Security-Review.pdf"
@@ -414,7 +414,7 @@
     "type": "TradFi",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Cyfrin",
     "findings": { "high": 1, "low": 2 },
     "report": "2025-08-29-cyfrin-securitize-solana-redemption-v2.0.pdf"
@@ -424,7 +424,7 @@
     "type": "DeFi, Router",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Shieldify",
     "findings": { "high": 3, "medium": 2 },
     "report": "GlueX-V2-Security-Review.pdf"
@@ -434,7 +434,7 @@
     "type": "Vesting, SPL",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Safe Edges",
     "findings": { "medium": 4 },
     "report": "Clique-Audit-Report.pdf"
@@ -444,7 +444,7 @@
     "type": "DeFi, Lending/Borrowing",
     "ecosystem": "Berachain",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Shieldify",
     "findings": { "medium": 1 },
     "report": "Terplayer-Hodl-Security-Review.pdf"
@@ -454,7 +454,7 @@
     "type": "Cross Chain, GameFi",
     "ecosystem": "Solana / EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Guardian Audits",
     "findings": { "critical": 3, "high": 2, "medium": 5 }
   },
@@ -463,7 +463,7 @@
     "type": "Defi, Staking, Vesting",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Naman Audit Group",
     "findings": { "critical": 1, "high": 1, "medium": 1 }
   },
@@ -472,7 +472,7 @@
     "type": "Lending, Yeild",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Firm engagements",
+    "source": "Private audits",
     "firm": "Arsen Blockchain Security",
     "findings": { "medium": 1 },
     "report": "After-Finance-Report.pdf"
@@ -482,7 +482,7 @@
     "type": "DeFi",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 1, "medium": 2 },
     "report": "PropDefi_Final_Audit_Report.pdf"
@@ -492,7 +492,7 @@
     "type": "Staking",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields"
   },
   {
@@ -500,7 +500,7 @@
     "type": "AMM, Vaults",
     "ecosystem": "Solana",
     "year": 2026,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields"
   },
   {
@@ -508,7 +508,7 @@
     "type": "Cross Chain",
     "ecosystem": "Canton",
     "year": 2026,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 1, "medium": 3 },
     "report": "Asterizm_Final_Audit_Report.pdf"
@@ -518,7 +518,7 @@
     "type": "Staking",
     "ecosystem": "EVM",
     "year": 2026,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 2, "medium": 3 },
     "report": "HeyElsa_Staking_Final_Audit_Report.pdf"
@@ -528,7 +528,7 @@
     "type": "Staking",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1, "medium": 1 },
     "report": "Octos_Final_Audit_Report.pdf"
@@ -538,7 +538,7 @@
     "type": "Presale",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 1 },
     "report": "Presale_Contracts_Final_Audit_Report.pdf"
@@ -548,7 +548,7 @@
     "type": "Chain Abstraction",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "medium": 3 },
     "report": "Avail_Vault_Final_Audit_Report.pdf"
@@ -558,7 +558,7 @@
     "type": "Token Distribution",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 3 }
   },
@@ -567,7 +567,7 @@
     "type": "NFT Rewards",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1, "medium": 4 },
     "report": "Okidori_Booster_Pack_Final_Report.pdf"
@@ -577,7 +577,7 @@
     "type": "Staking",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 6, "high": 10, "medium": 8 },
     "report": "LERN360_ICO_Contracts_Final_Audit_Report.pdf"
@@ -587,7 +587,7 @@
     "type": "Staking",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 2, "medium": 2 },
     "report": "Vouch_Staking_Final_Audit_Report.pdf"
@@ -597,7 +597,7 @@
     "type": "Bridge",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "low": 2 },
     "report": "Capx_Onramp_Bridge_Final_Audit_Report.pdf"
@@ -607,7 +607,7 @@
     "type": "Launchpad",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "low": 4 },
     "report": "Capx_Launchpad_Final_Audit_Report.pdf"
@@ -617,7 +617,7 @@
     "type": "Launchpad",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1 },
     "report": "Mandala_Presale_2_Final_Report.pdf"
@@ -627,7 +627,7 @@
     "type": "Cross Chain Registrar",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "high": 1, "medium": 3 },
     "report": "Safle_Final_Audit_Report.pdf"
@@ -636,7 +636,7 @@
     "name": "FUN Token Giveaway",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 11, "high": 7, "medium": 4 },
     "report": "Fun_Token_Final_Audit_Report.pdf"
@@ -646,7 +646,7 @@
     "type": "Cross Chain, Staking",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 7, "high": 2, "medium": 2 }
   },
@@ -655,7 +655,7 @@
     "type": "Tokenomics",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "medium": 5 },
     "report": "Vouch_Token_and_Distribution_Final_Audit_Report.pdf"
@@ -665,7 +665,7 @@
     "type": "Staking",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "medium": 1 },
     "report": "Zodor_Staking_Final_Audit_Report.pdf"
@@ -675,7 +675,7 @@
     "type": "NFT Tokonomics, Marketplace",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "high": 1, "medium": 1 },
     "report": "Okidori_Final_Audit_Report.pdf"
@@ -685,7 +685,7 @@
     "type": "Staking Vault",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "high": 3, "medium": 5 },
     "report": "Tarmiiz_Final_Audit_Report.pdf"
@@ -695,7 +695,7 @@
     "type": "Cross Chain NFT Staking",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 16, "high": 7, "medium": 7 }
   },
@@ -704,7 +704,7 @@
     "type": "DeFi, Lending",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 3, "medium": 4 },
     "report": "Mushi_V2_0_Final_Audit_Report.pdf"
@@ -714,7 +714,7 @@
     "type": "Vesting, Bonding Curve",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "high": 1, "medium": 2 },
     "report": "Manadotwin_Audit_Final_Report.pdf"
@@ -724,7 +724,7 @@
     "type": "NFT Staking, Tokenomics",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 4, "high": 3, "medium": 2 }
   },
@@ -733,7 +733,7 @@
     "type": "Tokenomics",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 4, "high": 3, "medium": 4 }
   },
@@ -742,7 +742,7 @@
     "type": "Staking",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 4, "medium": 1 }
   },
@@ -751,7 +751,7 @@
     "type": "Staking",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 4, "medium": 2 }
   },
@@ -760,7 +760,7 @@
     "type": "DeFi",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 6, "medium": 2 }
   },
@@ -769,7 +769,7 @@
     "type": "Staking, Lottery",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 6, "high": 1, "medium": 3 },
     "report": "Lottery_Contracts_Final_Audit_Report.pdf"
@@ -779,7 +779,7 @@
     "type": "Airdrop, SPL Tokens",
     "ecosystem": "Solana",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 3, "medium": 3 },
     "report": "Artu_Rust_Final_Audit_Report.pdf"
@@ -789,7 +789,7 @@
     "type": "Vesting, ERC20",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1, "medium": 2 },
     "report": "Artu_Solidity_Final_Audit_Report.pdf"
@@ -799,7 +799,7 @@
     "type": "ERC20",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 2 },
     "report": "LERNToken_Final_Audit_Report.pdf"
@@ -809,7 +809,7 @@
     "type": "AMM, Bonding Curve",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 3, "medium": 3 },
     "report": "Fomodotbiz_Final_Audit_Report.pdf"
@@ -819,7 +819,7 @@
     "type": "AMM",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1 },
     "report": "mew.gg_Contracts_Final_Audit_Report.pdf"
@@ -829,7 +829,7 @@
     "type": "Vault",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1, "medium": 3 },
     "report": "Hemi_Labs_Final_Audit_Report.pdf"
@@ -839,7 +839,7 @@
     "type": "Staking Vault",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 4 },
     "report": "W3.labs_Final_Audit_Report.pdf"
@@ -849,7 +849,7 @@
     "type": "AMM",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "medium": 4 },
     "report": "BRLA_Final_Audit_Report.pdf"
@@ -859,7 +859,7 @@
     "type": "Restaking",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 2, "medium": 3 },
     "report": "Zoth_Final_Audit_Report.pdf"
@@ -869,7 +869,7 @@
     "type": "ICM (interchain Messaging), Cross Chain",
     "ecosystem": "EVM",
     "year": 2025,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 4, "high": 3, "medium": 1 },
     "report": "Landslide_Final_Audit_Report.pdf"
@@ -879,7 +879,7 @@
     "type": "Trading Vault",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 3, "high": 2, "medium": 5 }
   },
@@ -888,7 +888,7 @@
     "type": "Casino",
     "ecosystem": "CosmWasm",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 1 },
     "report": "AllInGames_Baccarat_Final_Audit_Report.pdf"
@@ -898,7 +898,7 @@
     "type": "Casino",
     "ecosystem": "CosmWasm",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 4, "medium": 5 },
     "report": "AllInGames_Bank_Final_Audit_Report.pdf"
@@ -908,7 +908,7 @@
     "type": "Casino",
     "ecosystem": "CosmWasm",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "medium": 1 },
     "report": "AllInGames_Classic_Dice_Final_Audit_Report.pdf"
@@ -918,7 +918,7 @@
     "type": "Casino",
     "ecosystem": "CosmWasm",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 1 },
     "report": "AllInGames_Coin_Flip_Final_Audit_Report.pdf"
@@ -928,7 +928,7 @@
     "type": "Casino",
     "ecosystem": "CosmWasm",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 1 },
     "report": "AllInGames_Hash_Dice_Final_Audit_Report.pdf"
@@ -938,7 +938,7 @@
     "type": "Casino",
     "ecosystem": "CosmWasm",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 2 },
     "report": "AllInGames_Limbo_Final_Audit_Report.pdf"
@@ -948,7 +948,7 @@
     "type": "Casino",
     "ecosystem": "CosmWasm",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "medium": 1 },
     "report": "AllInGames_Lottery_Final_Audit_Report.pdf"
@@ -958,7 +958,7 @@
     "type": "Wallet",
     "ecosystem": "Bowser Extenstion",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 1 },
     "report": "Arcana_Wallet_Final_Audit_Report.pdf"
@@ -968,7 +968,7 @@
     "type": "Casino",
     "ecosystem": "CosmWasm",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 5, "medium": 4 }
   },
@@ -977,7 +977,7 @@
     "type": "ERC4626, Vault",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1, "medium": 3 }
   },
@@ -986,7 +986,7 @@
     "type": "DLT, Omni Chain",
     "ecosystem": "Go",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 1, "medium": 6 }
   },
@@ -995,7 +995,7 @@
     "type": "DeFi",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "high": 1, "medium": 2 },
     "report": "SPE_Smart_Contract_Final_Audit_Report.pdf"
@@ -1005,7 +1005,7 @@
     "type": "Staking, Vesting",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 5 },
     "report": "Lara_Liquid_Staking_Final_Audit_Report.pdf"
@@ -1015,7 +1015,7 @@
     "type": "Omni Chain",
     "ecosystem": "Solana",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 3, "medium": 4 }
   },
@@ -1024,7 +1024,7 @@
     "type": "Cross Chain",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "high": 1, "medium": 3 }
   },
@@ -1033,7 +1033,7 @@
     "type": "Airdrop, Tokenomics",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 2, "medium": 4 }
   },
@@ -1042,7 +1042,7 @@
     "type": "Omni Chain, Cross Chain",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 5, "high": 7, "medium": 3 }
   },
@@ -1050,7 +1050,7 @@
     "name": "Protop Vesting",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1 },
     "report": "Protop_Vesting_Contracts_Final_Report.pdf"
@@ -1059,7 +1059,7 @@
     "name": "Vouch",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1, "medium": 1 },
     "report": "Vouch_Contract_Final_Audit_Report.pdf"
@@ -1068,7 +1068,7 @@
     "name": "SAN",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1, "medium": 4 },
     "report": "SAN_Final_Report.pdf"
@@ -1078,7 +1078,7 @@
     "type": "ENS",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 2 }
   },
@@ -1086,7 +1086,7 @@
     "name": "Tribally Games",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1 },
     "report": "Tribally_Games_Final_Report.pdf"
@@ -1096,7 +1096,7 @@
     "type": "DeFi",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "medium": 5 },
     "report": "Plutope_Final_Audit_Report.pdf"
@@ -1106,7 +1106,7 @@
     "type": "Validator",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 3, "high": 2, "medium": 2 },
     "report": "LogX_Token_Final_Report.pdf"
@@ -1116,7 +1116,7 @@
     "type": "Account Abstraction",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 1, "medium": 1 },
     "report": "Kresus_Final_Audit_Report.pdf"
@@ -1126,7 +1126,7 @@
     "type": "DeFi, Staking",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 1, "high": 5, "medium": 4 },
     "report": "Rex_Exchange_Final_Audit_Report.pdf"
@@ -1136,7 +1136,7 @@
     "type": "AMM",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 3, "high": 2, "medium": 11 },
     "report": "aUSD_SC_Final_Audit_Report.pdf"
@@ -1146,7 +1146,7 @@
     "type": "Staking",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "high": 1 },
     "report": "Arcana_Staking_Contract_Final_Audit_Report.pdf"
@@ -1156,7 +1156,7 @@
     "type": "Staking, Vesting",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "critical": 2, "medium": 3 },
     "report": "Wasset_Final_Audit_Report.pdf"
@@ -1166,7 +1166,7 @@
     "type": "DeFi, Lending",
     "ecosystem": "EVM",
     "year": 2024,
-    "source": "Credshields",
+    "source": "Private audits",
     "firm": "Credshields",
     "findings": { "medium": 1 },
     "report": "Numa_Final_Audit_Report.pdf"
@@ -1175,7 +1175,7 @@
     "name": "Prime Skills (Draft)",
     "type": "GameFi",
     "ecosystem": "Solana",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "Superteam",
     "rank": "🥇",
     "findings": { "high": 2, "low": 2 },
@@ -1185,7 +1185,7 @@
     "name": "Super DCA Liquidity Network",
     "type": "AMM, Uniswap V4 Hooks",
     "ecosystem": "EVM",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "Sherlock",
     "rank": "43",
     "findings": { "high": 1, "medium": 1 },
@@ -1195,7 +1195,7 @@
     "name": "Metropolis",
     "type": "Lending/Borrwoing",
     "ecosystem": "EVM",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "Cantina",
     "rank": "7",
     "findings": { "medium": 1 },
@@ -1205,7 +1205,7 @@
     "name": "Eggstravaganza",
     "type": "GameFi, NFT",
     "ecosystem": "EVM",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "CodeHawks",
     "rank": "44",
     "findings": { "high": 2 },
@@ -1215,7 +1215,7 @@
     "name": "Rust Fund",
     "type": "Crowdfunding",
     "ecosystem": "Solana",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "CodeHawks",
     "rank": "62",
     "findings": { "high": 1, "medium": 2 },
@@ -1225,7 +1225,7 @@
     "name": "Hyperland",
     "type": "Lending/Borrowing",
     "ecosystem": "EVM",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "Cantina",
     "rank": "16",
     "findings": { "high": 1 },
@@ -1235,7 +1235,7 @@
     "name": "Tadle",
     "type": "Bridge",
     "ecosystem": "EVM",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "CodeHawks",
     "rank": "177",
     "findings": { "medium": 1 },
@@ -1245,7 +1245,7 @@
     "name": "Stax (Shieldify Private Pool)",
     "type": "Staking",
     "ecosystem": "EVM",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "Shieldify",
     "rank": "🥇",
     "findings": { "low": 2 },
@@ -1255,7 +1255,7 @@
     "name": "Trait Forge",
     "type": "GameFi",
     "ecosystem": "EVM",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "Code4rena",
     "rank": "39",
     "findings": { "high": 1 },
@@ -1265,7 +1265,7 @@
     "name": "Pool Together",
     "type": "Staking, Yeild",
     "ecosystem": "EVM",
-    "source": "Public contests",
+    "source": "Contests",
     "firm": "Code4rena",
     "rank": "89",
     "findings": { "medium": 1 },

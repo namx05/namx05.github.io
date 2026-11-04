@@ -111,7 +111,7 @@ function renderEcosystem(audit) {
 
 function firmLabel(audit) {
   if (!audit.firm) return '';
-  return `${audit.source === 'Public contests' ? 'on' : 'with'} ${audit.firm}`;
+  return `${audit.source === 'Contests' ? 'on' : 'with'} ${audit.firm}`;
 }
 
 function renderProtocol(audit) {
@@ -172,7 +172,7 @@ function setupAuditTable(audits) {
     values.forEach((v) => tally.set(v, (tally.get(v) || 0) + 1));
     return [...tally.keys()].sort((a, b) => tally.get(b) - tally.get(a));
   };
-  fillSelect($('f-source'), 'All', [...new Set(audits.map((a) => a.source))]);
+  fillSelect($('f-source'), 'All', [...new Set(audits.map((a) => a.source))].sort());
   fillSelect($('f-firm'), 'All', byFrequency(audits.map((a) => a.firm).filter(Boolean)));
   fillSelect($('f-eco'), 'All', byFrequency(audits.flatMap(ecosystemsOf)));
   fillSelect($('f-year'), 'All', [...new Set(audits.map((a) => a.year).filter(Boolean))].sort().reverse());
