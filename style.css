@@ -96,8 +96,19 @@ section { margin-top: 3.5rem; }
 .contact-label { color: var(--muted); }
 .prose p { margin: 0 0 .75rem; text-wrap: pretty; }
 .prose h3 { margin: 0 0 .5rem; font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
-.about-split { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 1rem 3rem; margin: 1rem 0 .75rem; }
-@media (max-width: 720px) { .about-split { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; } }
+.about-split { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: 1.25rem 0 1rem; }
+.about-card {
+  --accent: #a78bfa;
+  padding: 1.1rem 1.25rem .5rem;
+  border: 1px solid var(--line);
+  border-top: 2px solid var(--accent);
+  border-radius: 6px;
+  background: linear-gradient(180deg, color-mix(in srgb, var(--accent) 7%, transparent), transparent 9rem), #181818;
+}
+.about-card.web2 { --accent: #5eead4; }
+.about-card h3 { display: flex; flex-wrap: wrap; align-items: baseline; gap: .15rem .6rem; margin-bottom: .75rem; color: var(--accent); }
+.about-card h3 span { color: var(--muted); font-weight: 400; letter-spacing: 0; text-transform: none; font-size: .85rem; }
+@media (max-width: 720px) { .about-split { grid-template-columns: minmax(0, 1fr); } }
 .prose a { white-space: nowrap; }
 
 .experience { margin: 0; padding: 0; list-style: none; }
