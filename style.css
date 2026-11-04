@@ -95,6 +95,9 @@ section { margin-top: 3.5rem; }
 .contact { display: flex; flex-wrap: wrap; gap: 1rem; margin: 1rem 0 0; }
 .contact-label { color: var(--muted); }
 .prose p { margin: 0 0 .75rem; text-wrap: pretty; }
+.prose h3 { margin: 0 0 .5rem; font-size: .8rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.about-split { display: grid; grid-template-columns: minmax(0, 3fr) minmax(0, 2fr); gap: 1rem 3rem; margin: 1rem 0 .75rem; }
+@media (max-width: 720px) { .about-split { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; } }
 .prose a { white-space: nowrap; }
 
 .experience { margin: 0; padding: 0; list-style: none; }
