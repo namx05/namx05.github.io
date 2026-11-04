@@ -7,13 +7,13 @@ The website reads everything from this folder. No build step is needed: edit, co
 Add one line to the top of `audits.json`, and keep a comma at the end of the line:
 
 ```json
-{"name": "Acme", "type": "AMM", "ecosystem": "EVM", "year": 2026, "source": "Firm engagements", "firm": "Hashlock", "findings": {"high": 2, "medium": 3}, "report": "Acme-Report.pdf"},
+{"name": "Acme", "type": "AMM", "ecosystem": "EVM", "year": 2026, "source": "Private audits", "firm": "Hashlock", "findings": {"high": 2, "medium": 3}, "report": "Acme-Report.pdf"},
 ```
 
 | Field       | Notes                                                                                                                                                                         |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `name`      | Required.                                                                                                                                                                     |
-| `source`    | Required. `Firm engagements`, `Credshields` or `Public contests`.                                                                                                             |
+| `source`    | Required. Audit type: `Private audits` or `Contests`.                                                                                                                          |
 | `type`      | Optional. What the protocol is.                                                                                                                                               |
 | `ecosystem` | Optional. Use `Solana / EVM` for more than one.                                                                                                                               |
 | `year`      | Optional. Audits are listed newest year first.                                                                                                                                |
